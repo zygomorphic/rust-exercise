@@ -1,3 +1,3 @@
 fn main() {
-    println!("test,git");
+    println!("test git");
 }
