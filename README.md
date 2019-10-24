@@ -1,2 +1,3 @@
 # rust-exercise
-rust练习仓库
+
+rust基础练习
